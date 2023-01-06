@@ -2,7 +2,7 @@
 - 👀 I’m interested in kotlin  code de développement  du google assistant 
 - 🌱 I’m currently learning ..jetbrain app
 - 💞️ I’m looking to collaborate on ...google  cloud platforme
-- 📫 How to reach me ...:hdespoix@gmail.com
+- 📫 How to reach me ...:despoix@yahoo.com
 
 
 <!---
